@@ -1,0 +1,131 @@
+
+
+body, h1, h2, h3,p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  background-color:#DBE2E9;
+  min-height: 100%;
+  font-family: Times New Roman ;
+}
+
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    max-width: 800px;
+    height: 500;
+    margin: 20px auto;
+    text-align: center;
+}
+
+a:hover {
+    background-color: red;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 25px;
+}
+.font {
+
+     font-size: 30px;
+     font-family: Times New Roman serif;
+}
+
+
+.centered-list ul {
+        list-style:inside;
+    padding:0 px;
+    text-align:center;
+    
+     }
+
+     
+        .centered-list ul li{
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+     
+    
+   .contact-container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: lightblue;
+    border-radius:0px;
+}
+
+
+
+.contact-container h2 {
+    font-size: 24px;
+}
+
+.contact-info, .social-media {
+    padding: 20px;
+    text-align: center;
+}
+
+.contact-info p, .social-media p {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.social-media ul {
+    list-style: none;
+    text-align: center;
+
+}
+
+.social-media li a {
+    text-decoration: none;
+    color: #333;
+    left: -10px;
+  background-color:#DBE2E9;
+}
+
+.social-media li a:hover {
+    text-decoration: underline;
+    background-color: red;
+}
+
+.footer {
+
+    background-color: #333;
+    text-align: center;
+    padding:40px;
+   margin-left: -500px;
+    margin-right: -500px;
+
+    
+}
+.body {
+    font-family: Arial, sans-serif;
+    background-color:#333;
+}
+
+
+
